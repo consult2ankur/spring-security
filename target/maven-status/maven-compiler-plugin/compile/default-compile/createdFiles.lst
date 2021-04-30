@@ -1,0 +1,8 @@
+com\tcs\Springsecurity\controller\MyUserDetailsService.class
+com\tcs\Springsecurity\SpringsecurityApplication.class
+com\tcs\Springsecurity\model\person.class
+com\tcs\Springsecurity\config\AppConfig.class
+com\tcs\Springsecurity\repo\SecurityRepo.class
+com\tcs\Springsecurity\controller\SController.class
+com\tcs\Springsecurity\config\AuthenticationEntryPoint.class
+com\tcs\Springsecurity\controller\UserPrinciple.class
